@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MMC.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" group-title="",MMC (720p) [Not 24/7]
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="N1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 SLOVENSKA (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="TVKOPER.si" tvg-country="SI" tvg-language="Italian" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="",TV Koper-Capodistria (360p)
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMARIBOR.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="",TV MARIBOR (720p) [Not 24/7]
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="",TV SLOVENIJA 1 (720p)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="",TV SLOVENIJA 2 (720p)
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="",TV SLOVENIJA 3 (720p)
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="tvdx.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="" group-title="",TVDX (486p) [Not 24/7]
+http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="veseljaktv.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/Y0EyEeU.png" group-title="",Veseljak TV (1080p)
+https://stream.veseljak.tv/hls/stream.m3u8
 #EXTINF:-1,[XXX] Sextosenso
 http://iptv.iptvthebest.net:15000/live/andreaBarbagallo/barbagallo/7955.ts
 #EXTINF:-1,[XXX] Satisfaction
@@ -95,24 +113,6 @@ http://allgames.onlygames.co:43666/live/duksi090616/duksi0906166/156.ts
 http://allgames.onlygames.co:43666/live/duksi090616/duksi0906166/205.ts
 #EXTINF:-1,BUNGA BUNGA
 http://allgames.onlygames.co:43666/live/duksi090616/duksi0906166/204.ts
-#EXTINF:-1 tvg-id="MMC.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" group-title="",MMC (720p) [Not 24/7]
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="N1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 SLOVENSKA (576p)
-https://best-str.umn.cdn.united.cloud/stream?channel=n1slv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="TVKOPER.si" tvg-country="SI" tvg-language="Italian" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="",TV Koper-Capodistria (360p)
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMARIBOR.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="",TV MARIBOR (720p) [Not 24/7]
-https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA1.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="",TV SLOVENIJA 1 (720p)
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA2.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="",TV SLOVENIJA 2 (720p)
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLOVENIJA3.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="",TV SLOVENIJA 3 (720p)
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="tvdx.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="" group-title="",TVDX (486p) [Not 24/7]
-http://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 tvg-id="veseljaktv.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/Y0EyEeU.png" group-title="",Veseljak TV (1080p)
-https://stream.veseljak.tv/hls/stream.m3u8
 #EXTINF:0,|EXYU| HBO 2
 #EXTVLCOPT:network-caching=3000
 http://red.ipfox.org:8080/1234/12345678/26400
@@ -1081,3 +1081,4 @@ http://194.9.27.164:8103/play/O_la_la/index.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",Visit-X TV (720p) [Not 24/7]
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+
