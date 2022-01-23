@@ -13,8 +13,7 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="veseljaktv.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/Y0EyEeU.png" group-title="Slovenski",Veseljak TV (1080p)
 https://stream.veseljak.tv/hls/stream.m3u8
-#EXTINF:0,|EXYU| HBO 2
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="hbo2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.ibb.co/gJwNBLb/hbo2.png" group-title="Hrvaški",|EXYU| HBO 2
 http://red.ipfox.org:8080/1234/12345678/26400
 #EXTINF:0,|EXYU| HBO 3
 #EXTVLCOPT:network-caching=3000
