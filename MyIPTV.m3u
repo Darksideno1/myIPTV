@@ -13,56 +13,6 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="veseljaktv.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/Y0EyEeU.png" group-title="Slovenski",Veseljak TV (1080p)
 https://stream.veseljak.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="hbo2" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.ibb.co/g9RNtr2/hbo2.png" group-title="Hrvaški",|EXYU| HBO 2
-http://red.ipfox.org:8080/1234/12345678/26400
-#EXTINF:0,|EXYU| HBO 3
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26399
-#EXTINF:0,|EXYU| DIVA
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26398
-#EXTINF:0,|EXYU| Fox
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26397
-#EXTINF:0,|EXYU| Fox Life
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26396
-#EXTINF:0,|EXYU| CineStar Premiere 2
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26395
-#EXTINF:0,|EXYU| Cinemax
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26394
-#EXTINF:0,|EXYU| Cinemax 2
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26393
-#EXTINF:0,|EXYU| Cinestar TV
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26392
-#EXTINF:0,|EXYU| CMC
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26391
-#EXTINF:0,|EXYU| DM SAT
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26390
-#EXTINF:0,|EXYU| GRAND TV Narodna
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26389
-#EXTINF:0,|EXYU| Grand TV 2
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26388
-#EXTINF:0,|EXYU| KCN 1
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26387
-#EXTINF:0,|EXYU| KCN 2
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26386
-#EXTINF:0,|EXYU| KCN 3
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26385
-#EXTINF:0,|EXYU| OTV Valentino
-#EXTVLCOPT:network-caching=3000
-http://red.ipfox.org:8080/1234/12345678/26382
 #EXTINF:0,|EXYU| NICKELODEON
 #EXTVLCOPT:network-caching=3000
 http://red.ipfox.org:8080/1234/12345678/26381
