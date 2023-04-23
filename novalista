@@ -1,0 +1,835 @@
+#EXTM3U 
+
+
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_1.png", [COLOR gold]SLO 1[/COLOR]
+https://30-rtvslo-tv-slo1-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 2 HD"tvg-name="SLO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_2.png", [COLOR gold]SLO 2[/COLOR]
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="SLO 3" tvg-name="SLO 3" tvg-logo="https://freeweb.t-2.net/itak/LOGO/SLO_3.png", [COLOR gold]SLO 3[/COLOR]
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Kanal_A.png", [COLOR gold]Kanal A[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9116
+#EXTINF:-1 group-title="Slovenski" tvg-id="POP TV HD" tvg-name="POP TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_TV.png", [COLOR gold]POP TV[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9105
+#EXTINF:-1 group-title="Slovenski" tvg-id="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Planet_TV.png", [COLOR gold]Planet TV[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9109
+#EXTINF:-1 group-title="Slovenski" tvg-id="Vaš Kanal" tvg-name="Vaš Kanal" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Vas_kanal.png", [COLOR gold]Vas kanal[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13394
+#EXTINF:-1 group-title="Slovenski" tvg-id="Nova 24 TV HD" tvg-name="Nova 24 TV HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nova_24_TV.png", [COLOR gold]Nova 24TV[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9110
+#EXTINF:-1 group-title="Slovenski" tvg-id="RTS Maribor" tvg-name="RTS Maribor" tvg-logo="https://freeweb.t-2.net/itak/LOGO/RTS_Maribor.png", [COLOR gold]RTS Maribor[/COLOR]
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Slovenski" tvg-id="TV Koper" tvg-name="TV Koper" tvg-logo="https://freeweb.t-2.net/itak/LOGO/TV_Koper.png", [COLOR gold]TV Koper-Capodistria[/COLOR]
+https://26-rtvslo-tv-kp-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="MPEG4" tvg-id="1000279" tvg-name="1000279" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Voyo.png",[COLOR skyblue]VOYO[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9090
+#EXTINF:-1 group-title="Slovenski" tvg-id="MMC" tvg-name="MMC" tvg-logo="https://img.rtvslo.si/_up/ava/archive2/Content/channel_logos/MMCTV.jpg", [COLOR gold]MMC RTV SLO[/COLOR]
+https://28-rtvslo-tv-mmc-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Filmski" tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_1.png",[COLOR blue]CineStar Premiere 1[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13309
+#EXTINF:-1 group-title="Filmski" tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/CineStar_TV_Premiere_2.png",[COLOR blue]CineStar Premiere 2[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13308
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX.png", [COLOR blue]FOX[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9121
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Crime HD" tvg-name="FOX Crime HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Crime.png", [COLOR blue]FOX Crime[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13307
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Life HD" tvg-name="FOX Life HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Life.png", [COLOR blue]FOX Life[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13306
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/FOX_Movies.png", [COLOR blue]FOX Movies[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9120
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO.png", [COLOR blue]HBO[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9119
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_2.png", [COLOR blue]HBO 2[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9118
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/HBO_3.png", [COLOR blue]HBO 3[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9117
+#EXTINF:-1 group-title="Filmski" tvg-id="Brio HD" tvg-name="Brio HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_Brio.png", [COLOR blue]POP Brio[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9108
+#EXTINF:-1 group-title="Filmski" tvg-id="Kino HD" tvg-name="Kino HD" tvg-logo="https://freeweb.t-2.net/itak/LOGO/POP_Kino.png", [COLOR blue]POP Kino[/COLOR]
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9107
+#EXTINF:-1,History 2 SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13305
+#EXTINF:-1,Pop OTO HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9106
+#EXTINF:-1,Minimax SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9115
+#EXTINF:-1,Discovery Channel SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9122
+#EXTINF:-1,National Geographic SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9113
+#EXTINF:-1,National Geographic Wild SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9114
+#EXTINF:-1,24 Kitchen Adria HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13310
+#EXTINF:-1,Sport Klub 1 SI
+http://mag.you24.online:8080/q3raqd4jph/rfdcbc60mp/674115
+#EXTINF:-1,Sport Klub 2 HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9097
+#EXTINF:-1,Sport Klub 3 HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/625228
+#EXTINF:-1,Sport Klub 4 SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9095
+#EXTINF:-1,Sport TV 1 HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9101
+#EXTINF:-1,Sport TV 2 HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9100
+#EXTINF:-1,Sport TV 3 HD SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9099
+#EXTINF:-1,Voyo (Backup) SI
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13393
+
+
+#EXTINF:-1,[COLOR red]===== HRVATSKA =====
+skip
+
+#EXTINF:-1,HRT 1 HD HR
+http://ipflix.click:8080/max1609/wyt91jgxBh/5037
+#EXTINF:-1,HRT 1 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10416
+#EXTINF:-1,HRT 2 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5036
+#EXTINF:-1,HRT 2 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10415
+#EXTINF:-1,HRT 3 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5035
+#EXTINF:-1,HRT 3 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10414
+#EXTINF:-1,HRT 4 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5033
+#EXTINF:-1,HRT 4 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10413
+#EXTINF:-1,HRT Int. HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23780
+#EXTINF:-1,RTL HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4985
+#EXTINF:-1,RTL (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10412
+#EXTINF:-1,RTL 2 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4984
+#EXTINF:-1,RTL Crime HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4983
+#EXTINF:-1,RTL Kockica HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4980
+#EXTINF:-1,RTL Living HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4982
+#EXTINF:-1,RTL Passion HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4981
+#EXTINF:-1,Nova World HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/15448
+#EXTINF:-1,Nova TV HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5027
+#EXTINF:-1,Nova TV SD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10411
+#EXTINF:-1,Doma TV HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23193
+#EXTINF:-1,Doma TV SD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5057
+#EXTINF:-1,N1 TV HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9391
+#EXTINF:-1,N1 Hrvatska HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5029
+#EXTINF:-1,Z1 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4964
+#EXTINF:-1,TV Banovina HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9377
+#EXTINF:-1,TV Istra HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13452
+#EXTINF:-1,Slavonska TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11036
+#EXTINF:-1,Osjecka HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5024
+#EXTINF:-1,Trend TV Karlovac HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13449
+#EXTINF:-1,VTV Varazdin HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13443
+#EXTINF:-1,Laudato TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13333
+#EXTINF:-1,MTV Adria HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11037
+#EXTINF:-1,CMC Music HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9366
+#EXTINF:-1,Kanal Ri HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13338
+#EXTINF:-1,Vinkovacka TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4965
+#EXTINF:-1,Zdrava TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13334
+#EXTINF:-1,Jugoton TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11042
+#EXTINF:-1,Jadran TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/16425
+#EXTINF:-1,Jabuka TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/16426
+#EXTINF:-1,Srce TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13344
+#EXTINF:-1,Narodna TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13223
+#EXTINF:-1,TLC HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9373
+#EXTINF:-1,Klasik TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5032
+#EXTINF:-1,Diva HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5058
+#EXTINF:-1,M1 Film HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5031
+#EXTINF:-1,AXN Adria HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5074
+#EXTINF:-1,AXN Spin HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23186
+#EXTINF:-1,DocuBox HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23184
+#EXTINF:-1,SciFi HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11033
+#EXTINF:-1,AMC HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13226
+#EXTINF:-1,TV 1000 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9372
+#EXTINF:-1,Fox HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5050
+#EXTINF:-1,Fox Crime HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5049
+#EXTINF:-1,Fox Life HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5048
+#EXTINF:-1,Fox Movies HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5047
+#EXTINF:-1,HBO HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5041
+#EXTINF:-1,HBO 2 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5040
+#EXTINF:-1,HBO 3 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5039
+#EXTINF:-1,CineStar Premiere 1 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5065
+#EXTINF:-1,CineStar Premiere 1 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11490
+#EXTINF:-1,CineStar Premiere 2 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5064
+#EXTINF:-1,CineStar Premiere 2 (Backup) HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11489
+#EXTINF:-1,Cinestar TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5063
+#EXTINF:-1,CineStar TV Action HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5062
+#EXTINF:-1,CineStar TV Comedy HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/668948
+#EXTINF:-1,CineStar TV Fantasy HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11053
+#EXTINF:-1,CineMax 1 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5067
+#EXTINF:-1,Cinemax 2 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9375
+#EXTINF:-1,Max Select 1 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20035
+#EXTINF:-1,Max Select 2 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20034
+#EXTINF:-1,Max Select 3 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20033
+#EXTINF:-1,Max Select 4 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20032
+#EXTINF:-1,Max Select 5 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20031
+#EXTINF:-1,Max Select 6 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20030
+#EXTINF:-1,Max Select 7 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20029
+#EXTINF:-1,Max Select 8 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20028
+#EXTINF:-1,Max Select 9 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20027
+#EXTINF:-1,Max Select 10 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20026
+#EXTINF:-1,Fight Channel HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/25974
+#EXTINF:-1,Sportska TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9416
+#EXTINF:-1,Arena Sport 1 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5464
+#EXTINF:-1,Arena Sport 2 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5462
+#EXTINF:-1,Arena Sport 3 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5460
+#EXTINF:-1,Arena Sport 4 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5458
+#EXTINF:-1,Arena Sport 5 FHD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/545734
+#EXTINF:-1,Arena Sport 6 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9415
+#EXTINF:-1,Planet Sports 1 FHD HR 
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/623691
+#EXTINF:-1,Planet Sports 2 FHD HR 
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/623690
+#EXTINF:-1,Planet Sports 3 FHD HR 
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/623689
+#EXTINF:-1,Planet Sports 4 HD HR VIP
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663526
+#EXTINF:-1,Planet Sports 5 HD HR VIP
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663527
+#EXTINF:-1,Sport Klub Start HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/635089
+#EXTINF:-1,Sport Klub 1 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/53605
+#EXTINF:-1,Sport Klub 2 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9413
+#EXTINF:-1,Sport Klub 3 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/53166
+#EXTINF:-1,Sport Klub 4 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9411
+#EXTINF:-1,Sport Klub 5 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9410
+#EXTINF:-1,Sport Klub 6 HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9409
+#EXTINF:-1,Sport Klub Golf HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657465
+#EXTINF:-1,Nick Jr HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/8973
+#EXTINF:-1,Nickelodeon HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9380
+#EXTINF:-1,Baby TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11054
+#EXTINF:-1,Mini TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9371
+#EXTINF:-1,E! HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9379
+#EXTINF:-1,24 Kitchen HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9378
+#EXTINF:-1,Animal Planet HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5077
+#EXTINF:-1,Discovery Channel HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5059
+#EXTINF:-1,Discovery ID HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11052
+#EXTINF:-1,Crime & Investigation HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5061
+#EXTINF:-1,CBS Reality HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12384
+#EXTINF:-1,Lov I Ribolov HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9368
+#EXTINF:-1,History Channel HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9384
+#EXTINF:-1,History 2 HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11044
+#EXTINF:-1,National Geographic HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5028
+#EXTINF:-1,Nat Geo Wild HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11049
+#EXTINF:-1,Travel Channel HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9382
+#EXTINF:-1,Viasat Explorer HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9381
+#EXTINF:-1,Viasat History HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9383
+#EXTINF:-1,Viasat Nature HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/16421
+#EXTINF:-1,Kreator TV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13224
+#EXTINF:-1,HNTV HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11045
+#EXTINF:-1,Classic Tom And Jerry HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657466
+#EXTINF:-1,MTV Dance HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657470
+#EXTINF:-1,IDJ TV HD HR
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657469
+#EXTINF:-1,EN | FIFA | Croatia Vs Denmark
+http://ipflix.click:8080/movie/q3raqd4jph/rfdcbc60mp/40383.mp4
+#EXTINF:-1,EN | FIFA | Argentina Vs Croatia
+http://ipflix.click:8080/movie/q3raqd4jph/rfdcbc60mp/38766.mp4
+#EXTINF:-1,EN | FIFA | Croatia Vs Nigeria 2018
+http://ipflix.click:8080/movie/q3raqd4jph/rfdcbc60mp/38806.mp4
+#EXTINF:-1,EN | FIFA | Iceland Vs Croatia
+http://ipflix.click:8080/movie/q3raqd4jph/rfdcbc60mp/38797.mp4
+
+#EXTINF:-1,[COLOR red]===== Srbija =====[/COLOR]
+skip
+
+#EXTINF:-1,RTS 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4979
+#EXTINF:-1,RTS 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4978
+#EXTINF:-1,RTS 2 (Backup) RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10408
+#EXTINF:-1,RTS 3 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4977
+#EXTINF:-1,RTS 3 (Backup) RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10407
+#EXTINF:-1,RTS Svet RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11046
+#EXTINF:-1,RTS Drama RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/627838
+#EXTINF:-1,RTS Muzika RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/627837
+#EXTINF:-1,RTS Trezor RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/627836
+#EXTINF:-1,RTS Zivot RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/627835
+#EXTINF:-1,N1 TV HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9392
+#EXTINF:-1,N1 TV SD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9393
+#EXTINF:-1,Nova S RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5026
+#EXTINF:-1,Prva Max RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4989
+#EXTINF:-1,Prva Plus RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4990
+#EXTINF:-1,Prva Kick RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23187
+#EXTINF:-1,Prva RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4991
+#EXTINF:-1,Prva World RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4988
+#EXTINF:-1,Filmbox Extra HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23185
+#EXTINF:-1,Filmbox Extra SD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5052
+#EXTINF:-1,Filmbox Plus RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5051
+#EXTINF:-1,Film Klub RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12395
+#EXTINF:-1,Film Klub Extra RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13437
+#EXTINF:-1,Zadruga 1 Live RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23183
+#EXTINF:-1,Zadruga 2 Live RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663534
+#EXTINF:-1,Zadruga 3 Live RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663535
+#EXTINF:-1,Zadruga 4 Live RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663536
+#EXTINF:-1,Happy TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5044
+#EXTINF:-1,Happy TV (Backup) RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11041
+#EXTINF:-1,Pikaboo RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23180
+#EXTINF:-1,O2.TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5072
+#EXTINF:-1,O2.TV (Backup) RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9389
+#EXTINF:-1,Studio B RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4973
+#EXTINF:-1,Nasha TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13321
+#EXTINF:-1,Mag TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13332
+#EXTINF:-1,RTV Vojvodina 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4976
+#EXTINF:-1,RTV Vojvodina 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4975
+#EXTINF:-1,RTV 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657458
+#EXTINF:-1,RTV Novi Pazar RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9385
+#EXTINF:-1,Belle Amie RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/629074
+#EXTINF:-1,Sandzak TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9386
+#EXTINF:-1,GEM rtv RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13328
+#EXTINF:-1,IDJ TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11035
+#EXTINF:-1,KCN 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9365
+#EXTINF:-1,KCN 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9364
+#EXTINF:-1,KCN 3 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9363
+#EXTINF:-1,TV Duga RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9369
+#EXTINF:-1,TV Hram RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11029
+#EXTINF:-1,TV Istok RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12386
+#EXTINF:-1,Roma TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11038
+#EXTINF:-1,Top Channel HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/20017
+#EXTINF:-1,Top Sound RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11028
+#EXTINF:-1,Minimax/Cinemania Plus RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9370
+#EXTINF:-1,Mini Ultra TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9358
+#EXTINF:-1,Pink RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5021
+#EXTINF:-1,Pink 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5020
+#EXTINF:-1,Pink 3 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5019
+#EXTINF:-1,Pink Action RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5018
+#EXTINF:-1,Pink Bravo RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13348
+#EXTINF:-1,Pink Classic RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9357
+#EXTINF:-1,Pink Comedy RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5016
+#EXTINF:-1,Pink Crime & Mystery RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5015
+#EXTINF:-1,Pink Extra RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5014
+#EXTINF:-1,Pink Family RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13351
+#EXTINF:-1,Pink Fashion RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13350
+#EXTINF:-1,Pink Film RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5011
+#EXTINF:-1,Pink Folk 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5013
+#EXTINF:-1,Pink Folk 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5012
+#EXTINF:-1,Pink HaHa RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5010
+#EXTINF:-1,Pink Hits RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5009
+#EXTINF:-1,Pink Hits 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11027
+#EXTINF:-1,Pink Horror RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5008
+#EXTINF:-1,Pink Kids RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9353
+#EXTINF:-1,Pink Koncert RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9350
+#EXTINF:-1,Pink Kuvar RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5007
+#EXTINF:-1,Pink LOL RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5006
+#EXTINF:-1,Pink Movies RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9356
+#EXTINF:-1,Pink Music RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9351
+#EXTINF:-1,Pink Music 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13349
+#EXTINF:-1,Pink & Roll RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9349
+#EXTINF:-1,Pink Pedia RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5004
+#EXTINF:-1,Pink Plus RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5003
+#EXTINF:-1,Pink Premium RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5002
+#EXTINF:-1,Pink Reality RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5001
+#EXTINF:-1,Pink Romance RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5000
+#EXTINF:-1,Pink SciFi Fantasy RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4997
+#EXTINF:-1,Pink Serije RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4999
+#EXTINF:-1,Pink Show RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4998
+#EXTINF:-1,Pink Soap RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4996
+#EXTINF:-1,Pink Style RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/16427
+#EXTINF:-1,Pink Super Kids RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9352
+#EXTINF:-1,Pink Thriller RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4995
+#EXTINF:-1,Pink Western RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4994
+#EXTINF:-1,Pink World Cinema RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9355
+#EXTINF:-1,Pink World RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9354
+#EXTINF:-1,Pink Zabava RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4993
+#EXTINF:-1,Kino TV HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12396
+#EXTINF:-1,Partizan TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13221
+#EXTINF:-1,SOS RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13222
+#EXTINF:-1,Eurosport 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5056
+#EXTINF:-1,Eurosport 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5055
+#EXTINF:-1,Arena Sport 1 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5465
+#EXTINF:-1,Arena Sport 2 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5463
+#EXTINF:-1,Arena Sport 3 FHD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5461
+#EXTINF:-1,Arena Sport 4 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5459
+#EXTINF:-1,Arena Sport 5 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5456
+#EXTINF:-1,Sport Klub Golf RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/16422
+#EXTINF:-1,Sport Klub HD 1 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/625234
+#EXTINF:-1,Sport Klub HD 2 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9407
+#EXTINF:-1,Sport Klub HD 3 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9406
+#EXTINF:-1,Sport Klub 4 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9405
+#EXTINF:-1,Sport Klub 5 HD RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9404
+#EXTINF:-1,Sport Klub HD 6 RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9403
+#EXTINF:-1,RTS Kolo RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657464
+#EXTINF:-1,Sandzak TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18918
+#EXTINF:-1,Insajder TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18924
+#EXTINF:-1,Cine Mania RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13354
+#EXTINF:-1,DM Sat RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9367
+#EXTINF:-1,Grand TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5045
+#EXTINF:-1,Grand 2 TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9390
+#EXTINF:-1,Jefimija TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18919
+#EXTINF:-1,Leskovac TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/7889
+#EXTINF:-1,Mlava TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/7888
+#EXTINF:-1,Palma Plus RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5022
+#EXTINF:-1,Vavoom RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/625453
+#EXTINF:-1,Yu Planet TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/639818
+#EXTINF:-1,Da Vinci Learning RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657456
+#EXTINF:-1,Discovery Channel RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657455
+#EXTINF:-1,Duga + RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657460
+#EXTINF:-1,FenTv RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657452
+#EXTINF:-1,Fine Living RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657454
+#EXTINF:-1,Luxe TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657453
+#EXTINF:-1,Superstar TV RS
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/657463
+
+#EXTINF:-1,[COLOR red]===== Bosna =====[/COLOR]
+skip
+
+#EXTINF:-1,BHT HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9360
+#EXTINF:-1,BHT 1 BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5071
+#EXTINF:-1,N1 Bosna BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/10410
+#EXTINF:-1,Nova BH BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/625455
+#EXTINF:-1,Al Jazeera Balkan BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5076
+#EXTINF:-1,Arena Sport 1 BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23188
+#EXTINF:-1,TV USK HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4967
+#EXTINF:-1,ATV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5075
+#EXTINF:-1,BN Sat BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5069
+#EXTINF:-1,Federalna TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5053
+#EXTINF:-1,TV Sarajevo BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4966
+#EXTINF:-1,Face TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5054
+#EXTINF:-1,MIR TV Europa BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12391
+#EXTINF:-1,Pink Media BH BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/625454
+#EXTINF:-1,Moja TV BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/638022
+#EXTINF:-1,OBN BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5025
+#EXTINF:-1,Hayat BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11050
+#EXTINF:-1,Hayat Folk BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5042
+#EXTINF:-1,Hayat HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5043
+#EXTINF:-1,Hayat Music BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9401
+#EXTINF:-1,Hayat Plus BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9402
+#EXTINF:-1,Hayatovci BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9400
+#EXTINF:-1,HIT Televizija BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13352
+#EXTINF:-1,MTV Igman HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5038
+#EXTINF:-1,TV5 BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9395
+#EXTINF:-1,Meka TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9361
+#EXTINF:-1,RTV Zenica BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11032
+#EXTINF:-1,RTRS BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4987
+#EXTINF:-1,RTRS Plus BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4986
+#EXTINF:-1,OTV Valentino BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5023
+#EXTINF:-1,Posavina TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4992
+#EXTINF:-1,Planeta TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/635094
+#EXTINF:-1,Sevdah TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9399
+#EXTINF:-1,TV Sehara HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9398
+#EXTINF:-1,City TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13317
+#EXTINF:-1,Alfa TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/11449
+#EXTINF:-1,TV Slon Extra BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12393
+#EXTINF:-1,Glas Drine TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12394
+#EXTINF:-1,TV TK Tuzla BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12398
+#EXTINF:-1,TV TK Tuzla (Backup) BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23779
+#EXTINF:-1,O Kanal BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5068
+#EXTINF:-1,Kanal 6 HD BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/12537
+#EXTINF:-1,Moj Kanal BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13454
+#EXTINF:-1,BN Music BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9394
+#EXTINF:-1,Izvorna TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/9376
+#EXTINF:-1,Vikom TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/13329
+#EXTINF:-1,TV 1 BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4972
+#EXTINF:-1,TV 101 BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/4970
+#EXTINF:-1,BN TV BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/5070
+#EXTINF:-1,K3 Prnjavor BIH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/23181
+#EXTINF:-1,Dobra Balkanska HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654827
+#EXTINF:-1,Dobra Bosnjacka BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654826
+#EXTINF:-1,Dobra Cinema HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654825
+#EXTINF:-1,Dobra Cinema + HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654824
+#EXTINF:-1,Dobra Crnogorska HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654823
+#EXTINF:-1,Dobra Djecija BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654822
+#EXTINF:-1,Dobra Exclusive HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654821
+#EXTINF:-1,Dobra Islamska HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654820
+#EXTINF:-1,Dobra Muzicka BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654819
+#EXTINF:-1,Dobra Nasheed HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654817
+#EXTINF:-1,Dobra Plus HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654816
+#EXTINF:-1,Dobra S-Makedonija HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654815
+#EXTINF:-1,Dobra Sportska HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654814
+#EXTINF:-1,Dobra Srpska HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654813
+#EXTINF:-1,Dobra World Music HD BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/654812
+#EXTINF:-1,Dobra Sarajevska BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663520
+#EXTINF:-1,Dobra Sevdah BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663521
+#EXTINF:-1,Dobra Svadba BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663522
+#EXTINF:-1,Dobra Travel BiH
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/663523
+
+#EXTINF:-1,[COLOR red]===== English Premier League =====[/COLOR]
+skip
+
+
+#EXTINF:-1,NBC Sports Network HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/682014
+#EXTINF:-1,SuperSport Premier League FHD VIP AF
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/682910
+#EXTINF:-1,Optus Sport [Match Time] HD VIP AU
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/684004
+#EXTINF:-1,Sky Sports Premier League FHD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/684434
+#EXTINF:-1,Sky Sports Main Event FHD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/671299
+#EXTINF:-1,Sky Sports Main Event HD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683841
+#EXTINF:-1,BT Sport 1 FHD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683858
+#EXTINF:-1,BT Sport 1 HD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683859
+#EXTINF:-1,BT Sport 1 VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683860
+#EXTINF:-1,BT Sport 2 FHD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683861
+#EXTINF:-1,BT Sport 2 HD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683862
+#EXTINF:-1,BT Sport 2 VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683863
+#EXTINF:-1,BT Sport 3 FHD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683865
+#EXTINF:-1,BT Sport 3 HD VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683866
+#EXTINF:-1,BT Sport 3 VIP UK
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/683867
+#EXTINF:-1,Bein Sports 11 HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/682912
+#EXTINF:-1,Bein Sports 12 HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/682913
+#EXTINF:-1,EPL 1 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681990
+#EXTINF:-1,EPL 2 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681981
+#EXTINF:-1,EPL 3 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681982
+#EXTINF:-1,EPL 4 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681983
+#EXTINF:-1,EPL 5 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681984
+#EXTINF:-1,EPL 6 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681991
+#EXTINF:-1,EPL 7 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681986
+#EXTINF:-1,EPL 8 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681987
+#EXTINF:-1,EPL 9 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681988
+#EXTINF:-1,EPL 10 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681993
+#EXTINF:-1,EPL 11 [Match Time] HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/681992
+#EXTINF:-1,Fox Sports [Florida] VIP HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18938
+#EXTINF:-1,Fox Sports Sportstime [OHIO] HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18945
+#EXTINF:-1,Fox Sports [South] HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/650574
+#EXTINF:-1,Fox Sports [South East] HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18943
+#EXTINF:-1,Fox Sports [South West] HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18942
+#EXTINF:-1,Fox Sports Sun HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18937
+#EXTINF:-1,Fox Sports [West] HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18940
+#EXTINF:-1,Fox Sports Wisconsin HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/18939
+#EXTINF:-1,WGN America HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/620791
+#EXTINF:-1,NBA TV HD VIP US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/684729
+#EXTINF:-1,NBA TV HD US
+http://ipflix.click:8080/q3raqd4jph/rfdcbc60mp/6355
